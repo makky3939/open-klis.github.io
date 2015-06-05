@@ -10,31 +10,25 @@ GitHub "GIT CHEAT SHEET"を参照
 # 設定をする　
 
 {% highlight ruby %}
-
 # 名前を設定
 git config --global user.name "your name"
-
 # メールアドレスを設定
 git config --global user.email "your email address"
-
 {% endhighlight %}
 
 # リポジトリを作る
 
 {% highlight ruby %}
-
 # リポジトリを作成
 git init
 
 # リポジトリをクローン
 git clone [repository\'s url]
-
 {% endhighlight %}
 
 # 変更を加える
 
 {% highlight ruby %}
-
 # コミットされたファイルのリストを見る
 git status
 
@@ -49,5 +43,4 @@ git reset [file]
 
 # コミットする
 git commit -m 'commit message'
-
 {% endhighlight %}
