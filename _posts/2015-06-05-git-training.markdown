@@ -9,7 +9,7 @@ GitHub "GIT CHEAT SHEET"を参照
 
 # 設定をする　
 
-{% hilight %}
+{% highlight ruby %}
 
 # 名前を設定
 git config --global user.name "your name"
