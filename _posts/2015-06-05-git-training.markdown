@@ -19,9 +19,9 @@ git config --global user.email "your email address"
 
 {% endhighlight %}
 
-
 # リポジトリを作る
 
+{% highlight ruby %}
 
 # リポジトリを作成
 git init
@@ -48,3 +48,4 @@ git reset [file]
 # コミットする
 git commit -m 'commit message'
 
+{% endhighlight %}
