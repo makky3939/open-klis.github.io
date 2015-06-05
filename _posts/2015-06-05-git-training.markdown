@@ -9,7 +9,7 @@ GitHub "GIT CHEAT SHEET"を参照
 
 # 設定をする　
 
-{% hilight shell%}
+{% hilight %}
 
 # 名前を設定
 git config --global user.name "your name"
@@ -17,11 +17,11 @@ git config --global user.name "your name"
 # メールアドレスを設定
 git config --global user.email "your email address"
 
-{% endhighlight %}
+{% endhilight %}
+
 
 # リポジトリを作る
 
-{% hilight shell%}
 
 # リポジトリを作成
 git init
@@ -29,11 +29,9 @@ git init
 # リポジトリをクローン
 git clone [repository's url]
 
-{% endhighlight %}
 
 # 変更を加える
 
-{% hilight shell%}
 
 # コミットされたファイルのリストを見る
 git status
