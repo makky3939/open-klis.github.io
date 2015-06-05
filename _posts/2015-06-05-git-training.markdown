@@ -17,7 +17,7 @@ git config --global user.name "your name"
 # メールアドレスを設定
 git config --global user.email "your email address"
 
-{% endhilight %}
+{% endhighlight %}
 
 
 # リポジトリを作る
