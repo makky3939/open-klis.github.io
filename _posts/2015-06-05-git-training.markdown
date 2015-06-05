@@ -27,11 +27,13 @@ git config --global user.email "your email address"
 git init
 
 # リポジトリをクローン
-git clone [repository's url]
+git clone [repository\'s url]
 
+{% endhighlight %}
 
 # 変更を加える
 
+{% highlight ruby %}
 
 # コミットされたファイルのリストを見る
 git status
