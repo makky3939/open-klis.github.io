@@ -9,3 +9,5 @@ github_username:  open-klis
 
 # Build settings
 markdown: kramdown
+
+exclude: ["bundle", "Gemfile", "Gemfile.lock"]
