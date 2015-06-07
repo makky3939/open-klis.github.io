@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "git training (2)"
-date:   2015-06-05 12:30:00
+date:   2015-06-07 12:30:00
 categories: git
 ---
 
