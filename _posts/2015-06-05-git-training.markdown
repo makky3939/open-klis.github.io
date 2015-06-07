@@ -23,7 +23,7 @@ git config --global user.email "your email address"
 git init
 
 # リポジトリをクローン
-git clone [repository\'s url]
+git clone [url of the repository]
 {% endhighlight %}
 
 # 変更を加える
